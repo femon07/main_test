@@ -1,0 +1,3 @@
+[submodule "sub-test"]
+	path = sub-test
+	url = https://github.com/femon07/sub-test.git
